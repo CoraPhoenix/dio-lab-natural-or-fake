@@ -1,20 +1,18 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Creating an e-book using AI
 
-## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+## 📒 Description
+This is a project where AI tools were used to create an e-book about HTML tags.
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+## 🤖 Used tools
+- **[ChatGPT](https://chat.openai.com)** for creating title and content, with its respective structure;
+- **[Craiyon](craiyon.com)** for creating the e-book's cover art;
+- **Microsoft Office PowerPoint** for editing the layout and pages.
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+## 🧐 Creation process
+First, **ChatGPT** was used to generate a title for the e-book with a creative aspect and pleasant theme. Later, **Craiyon** was used to create the e-book's cover art, followed by ChatGPT, which generated the e-book's content. Then, PowerPoint was used to create the pages and the cover, using a wanted style and layout.
 
-## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+## 🚀 Results
+The e-book showed a rich and easy to understand content, showing how generative AIs can be used to generate content in a creative and natural manner, being useful for knowledge sharing.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK TO THE PROJECT](https://github.com/CoraPhoenix/dio-creating-an-ebook-using-prompts)
 
-## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
